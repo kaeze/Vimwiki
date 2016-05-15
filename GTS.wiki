@@ -1,0 +1,2 @@
+== Reference ==
+[[10 Things got to know|https://community.arm.com/groups/processors/blog/2013/06/18/ten-things-to-know-about-biglittle]]
